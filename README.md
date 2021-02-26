@@ -9,5 +9,5 @@ Joint Trajectory Generation is done by following steps.
 ## Simulation
 The the pattern generated in matlab is tested on an open source humanoid robot in ros called [thormang3](https://github.com/ROBOTIS-GIT/ROBOTIS-THORMANG-Common). The joint trajectories are published to the joint position topic for the humanoid robot to move.
 
-### Video
+#### Video
 [<img src="ZMP-Preview-Control-Matlab/images/humanoid_thumbnail.jpg" width="200"/>](https://youtu.be/aWzGMDgfyIA "Preview Control Simulation in Gazebo")
