@@ -11,7 +11,7 @@ The joint trajectory is stored as a variable in .mat format.
 ## Simulation
 The the pattern generated in matlab is tested on an open source humanoid robot in ros called [thormang3](https://github.com/ROBOTIS-GIT/ROBOTIS-THORMANG-Common). The joint trajectories are published to the joint position topic for the humanoid robot to move.
 
-####Steps in running the simulation
+#### Steps in running the simulation
 - Run the thormang3 simulation world.
 - Run the python code **walk.py** in the **ros** directory.
 
